@@ -1,0 +1,10 @@
+module pfClusterShapes = PFClusterShapeProducer
+{
+  string PFClusterShapesLabel = "ECAL"
+  string PFClustersLabel = "ECAL"
+  string PFClustersProducer = "particleFlowCluster"
+  string PFRechitsLabel = "ECAL"
+  string PFRechitsProducer = "particleFlowCluster"
+  bool useFractions = false
+  double W0 = 4.2
+} 

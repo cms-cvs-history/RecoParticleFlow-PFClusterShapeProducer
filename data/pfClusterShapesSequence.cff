@@ -1,3 +1,0 @@
-include "RecoParticleFlow/PFClusterShapeProducer/data/pfClusterShapes.cfi"
-
-sequence pfClusterShapesSequence = { pfClusterShapes }
